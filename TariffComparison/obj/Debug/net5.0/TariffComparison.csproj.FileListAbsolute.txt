@@ -14,10 +14,7 @@ C:\Users\User\source\repos\TariffComparison\TariffComparison\obj\Debug\net5.0\Ta
 C:\Users\User\source\repos\TariffComparison\TariffComparison\obj\Debug\net5.0\ref\TariffComparison.dll
 C:\Users\User\source\repos\TariffComparison\TariffComparison\obj\Debug\net5.0\TariffComparison.pdb
 C:\Users\User\source\repos\TariffComparison\TariffComparison\obj\Debug\net5.0\TariffComparison.genruntimeconfig.cache
-D:\Varivox\TariffComparison\TariffComparison\bin\Debug\net5.0\TariffComparison.exe
 D:\Varivox\TariffComparison\TariffComparison\bin\Debug\net5.0\TariffComparison.deps.json
-D:\Varivox\TariffComparison\TariffComparison\bin\Debug\net5.0\TariffComparison.runtimeconfig.json
-D:\Varivox\TariffComparison\TariffComparison\bin\Debug\net5.0\TariffComparison.runtimeconfig.dev.json
 D:\Varivox\TariffComparison\TariffComparison\bin\Debug\net5.0\TariffComparison.dll
 D:\Varivox\TariffComparison\TariffComparison\bin\Debug\net5.0\ref\TariffComparison.dll
 D:\Varivox\TariffComparison\TariffComparison\bin\Debug\net5.0\TariffComparison.pdb
@@ -29,4 +26,7 @@ D:\Varivox\TariffComparison\TariffComparison\obj\Debug\net5.0\TariffComparison.c
 D:\Varivox\TariffComparison\TariffComparison\obj\Debug\net5.0\TariffComparison.dll
 D:\Varivox\TariffComparison\TariffComparison\obj\Debug\net5.0\ref\TariffComparison.dll
 D:\Varivox\TariffComparison\TariffComparison\obj\Debug\net5.0\TariffComparison.pdb
+D:\Varivox\TariffComparison\TariffComparison\bin\Debug\net5.0\TariffComparison.exe
+D:\Varivox\TariffComparison\TariffComparison\bin\Debug\net5.0\TariffComparison.runtimeconfig.json
+D:\Varivox\TariffComparison\TariffComparison\bin\Debug\net5.0\TariffComparison.runtimeconfig.dev.json
 D:\Varivox\TariffComparison\TariffComparison\obj\Debug\net5.0\TariffComparison.genruntimeconfig.cache
